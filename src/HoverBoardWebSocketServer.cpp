@@ -7,6 +7,8 @@
  *
  */
 
+#include "gametrak.h"
+
 #define RX1_pin 16
 #define TX1_pin 15
 

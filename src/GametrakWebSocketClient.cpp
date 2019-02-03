@@ -1,13 +1,13 @@
 #ifndef IS_SERVER
 
 /*
- * GametrakWebSocketClient.ino
+ * GametrakWebSocketClient.cpp
  *
  *  Created on: 02.02.2019
  *
  */
 
-#include "gametrack.h"
+#include "gametrak.h"
 
 
 #define X_PIN 32
